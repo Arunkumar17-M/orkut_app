@@ -8,6 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Arun, you doing a great job keep pushing" );
+        System.out.println( "Hello world..." );
+	int i = 20;
+	int j = 10;
+	int k = i+j;
     }
 }
